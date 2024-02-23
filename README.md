@@ -17,7 +17,9 @@
   - Description
 ---
 # 4. Adding a spell
-  - [Form in which you input your data](https://media.discordapp.net/attachments/691621631579258941/1210547162845552641/image.png?ex=65eaf4e6&is=65d87fe6&hm=ce15d8ad5e6389d9308fd81ec3a9d0a69b1dc4604bc5cecfbf27fe3e5dfcd971&=&format=webp&quality=lossless&width=1296&height=676)
-  - [Upon submitting the form, Tasha's Hideous Laughter is added into our spellbook]
+  - Form in which you input your data
+  - ![image](https://github.com/CosminAchitei15/myspellbook/assets/149383119/9857e3d8-bc98-4ed9-a954-9b8f33e0073f)
+  - Upon submitting the form, Tasha's Hideous Laughter is added into our spellbook
   - ![image](https://github.com/CosminAchitei15/myspellbook/assets/149383119/5944fe82-4b9f-4a88-be49-a2b95a0a91ac)
-  - [The spell is added into the mySQL database aswell](![image](https://github.com/CosminAchitei15/myspellbook/assets/149383119/405fbf85-4f44-41ce-ad37-11f3c631dc8b))
+  - The spell is added into the mySQL database aswell
+  - ![image](https://github.com/CosminAchitei15/myspellbook/assets/149383119/405fbf85-4f44-41ce-ad37-11f3c631dc8b)
